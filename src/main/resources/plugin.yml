@@ -1,0 +1,4 @@
+name: FloorChairBase
+version: '${project.version}'
+main: me.secretagent.floorchairbase.FloorChairBase
+api-version: 1.16
